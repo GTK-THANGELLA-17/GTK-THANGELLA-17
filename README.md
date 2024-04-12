@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm G.Thangella</h1>
 <h3 align="center">A passionate DevOps Engineer From India</h3>
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0beQKA0UMyRcTwR-1TDXsy&ust=1713027222070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiT4eeRvYUDFQAAAAAdAAAAABAE")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtk-thangella-17&label=Profile%20views&color=0e75b6&style=flat" alt="gtk-thangella-17" /> </p>
 
