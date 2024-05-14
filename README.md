@@ -36,7 +36,8 @@
 ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C)
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-%23FFA519.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
 <h3 align="left"></h3>
