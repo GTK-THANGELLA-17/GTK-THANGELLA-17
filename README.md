@@ -6,12 +6,41 @@
 # 💫 About Me:
 🌱 I’m currently learning DevSecOps & Cloud Devops<br><br>👨‍💻 All of my projects are available at https://gtk-thangella-17.github.io/G.Thangella-portfolio-Game-Developer-v1/<br><br>💬 Ask me about DevOps & Cloud DevOps & Game Development<br><br>📫 How to reach me imgtk17@gmail.com
 
+# My Portfolio
+
+Welcome to my portfolio! Below are some of the projects I've worked on:
+
+- [Lifespan Calculator](https://gtk-thangella-17.github.io/Lifespan_calculatoe-v1/)
+- [Book Your Appointment](https://gtk-thangella-17.github.io/Book-your-Appointment/)
+- [Code Merger and Divider and Differentiator](https://gtk-thangella-17.github.io/code-merger-and-divider-v1/)
+- [Deals and Tech News Content Code Generator](https://gtk-thangella-17.github.io/deals-and-tech-news-content-code-generator-v1/)
+- [Submit Your Theater Details](https://gtk-thangella-17.github.io/Submit-Your-Theater-Details-v2/)
+- [GTK-THANGELLA-17 Book Theater Website](https://gtk-thangella-17.github.io/GTK-THANGELLA-17-Book-Theater-Website-v1/)
+- [Book-Your-Theater-Movies list-webpage](https://gtk-thangella-17.github.io/Book-Your-theater-Movies-List/)
+- [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
+- [GTK-AI-serverless-backendless](https://gtk-thangella-17.github.io/GTK-AI-serverless-backendless/)
+- [Renewit-Post-A-Product-webpage](https://gtk-thangella-17.github.io/Renewit-Post-A-Product-webpage/)
+- [StoreRoom-Post Product-webpage](https://gtk-thangella-17.github.io/StoreRoom-post-Product-Website/)
+- [StoreRoom-Browse Product-webpage](https://gtk-thangella-17.github.io/StoreRoom-Products-Website/)
+- [Land-Rover-Range-Rover-Cars-Website](https://gtk-thangella-17.github.io/Land-Rover-Range-Rover-Cars-Website/)
+- [Wish-Generator-website](https://gtk-thangella-17.github.io/Wish-Generator-website/)
+- [Resume-Cv-Generator-website](https://gtk-thangella-17.github.io/Resume-CV-Generator/)
+- [Renewit-products-webpage](https://gtk-thangella-17.github.io/Renewit-products-webpage/)
+- [My-Company-webpage](https://gtk-thangella-17.github.io/My-Company-webpage/)
+
+## Creativity and Proficiency
+
+### AI-Powered Code Generator
+
+Skilled in generating code using ChatGPT for various applications, including webpages and web applications. Successfully developed over 12 unique webpages from original concepts, demonstrating creativity and proficiency in serverless and backendless development.
+
+### Programming Languages
+
+While my main focus is on transitioning into a DevOps role, I also have basic proficiency in programming languages such as C, C++, C#, Java, HTML, CSS, and JavaScript. This broad skill set allows me to understand and modify code effectively.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/GUfLXH1Ys147Lt1t/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/g_thangella_k?utm_source=qr&igsh=aWczdnVtaDR1N280) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gthangella?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Gtk947?t=a9kV2N4fLdbSzMnTENIsXw&s=08) 
-
-# 💻 Tech Stack:
-
 
 # 💻 Tech Stack:
 
