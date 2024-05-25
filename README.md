@@ -16,6 +16,7 @@ Welcome to my portfolio! Below are some of the projects I've worked on:
 - [Deals and Tech News Content Code Generator](https://gtk-thangella-17.github.io/deals-and-tech-news-content-code-generator-v1/)
 - [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
 - [GTK-AI-serverless-backendless](https://gtk-thangella-17.github.io/GTK-AI-serverless-backendless/)
+- [Career-job-Roles-Guide](https://gtk-thangella-17.github.io/Career-job-Roles-Guide/)
 - [Renewit-Post-A-Product-webpage](https://gtk-thangella-17.github.io/Renewit-Post-A-Product-webpage/)
 - [StoreRoom-Post Product-webpage](https://gtk-thangella-17.github.io/StoreRoom-post-Product-Website/)
 - [StoreRoom-Browse Product-webpage](https://gtk-thangella-17.github.io/StoreRoom-Products-Website/)
