@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/GTK-THANGELLA-17/GTK-THANGELLA-17/blob/main/Devops%20Gif%20Image%202.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtk-thangella-17&label=Profile%20views&color=0e75b6&style=flat" alt="gtk-thangella-17" /> </p>
 # 💫 About Me:
-🌱 I’m currently learning DevSecOps & Cloud Devops<br><br>👨‍💻 All of my projects are available at https://gtk-thangella-17.github.io/G.Thangella-portfolio-Game-Developer-v1/<br><br>💬 Ask me about DevOps & Cloud DevOps & Game Development<br><br>📫 How to reach me imgtk17@gmail.com
+🌱 I’m currently learning DevSecOps & Cloud Devops<br><br>👨‍💻 All of my projects are available at https://gtk-thangella-17.github.io/G.Thangella-DevOpsEngineer-Portfolio/<br><br>💬 Ask me about DevOps & Cloud DevOps & Game Development<br><br>📫 How to reach me imgtk17@gmail.com
 
 # My Portfolio
 
