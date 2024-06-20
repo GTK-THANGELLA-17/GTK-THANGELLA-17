@@ -10,7 +10,7 @@
 
 Welcome to my portfolio! Below are some of the projects I've worked on:
 
-- [Lifespan Calculator](https://gtk-thangella-17.github.io/Lifespan_calculatoe-v1/)
+- [Lifespan Estimation Calculator](https://gtk-thangella-17.github.io/Lifespan_calculatoe-v1/)
 - [Book Your Appointment](https://gtk-thangella-17.github.io/Book-your-Appointment/)
 - [Code Merger and Divider and Differentiator](https://gtk-thangella-17.github.io/code-merger-and-divider-v1/)
 - [Deals and Tech News Content Code Generator](https://gtk-thangella-17.github.io/deals-and-tech-news-content-code-generator-v1/)
