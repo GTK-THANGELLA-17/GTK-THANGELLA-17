@@ -12,6 +12,7 @@ Welcome to my portfolio! Below are some of the My Own Developed projects I've wo
 
 - [Lifespan Estimation Calculator](https://gtk-thangella-17.github.io/Lifespan_calculatoe-v1/)
 - [GTK-AI-serverless-backendless](https://gtk-thangella-17.github.io/GTK-AI-serverless-backendless/)
+- [GTK-Payments-Gateway-Platform](https://github.com/GTK-THANGELLA-17/GTK-Payments-Gateway-Platform)
 - [Code Merger and Divider and Differentiator](https://gtk-thangella-17.github.io/code-merger-and-divider-v1/)
 - [Deals and Tech News Content Code Generator](https://gtk-thangella-17.github.io/deals-and-tech-news-content-code-generator-v1/)
 - [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
@@ -26,6 +27,7 @@ Welcome to my portfolio! Below are some of the My Own Developed projects I've wo
 - [Resume-Cv-Generator-website](https://gtk-thangella-17.github.io/Resume-CV-Generator/)
 - [Book Your Appointment](https://gtk-thangella-17.github.io/Book-your-Appointment/)
 - [My-Company-webpage](https://gtk-thangella-17.github.io/My-Company-webpage/)
+
 
 ## Creativity and Proficiency
 
