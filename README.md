@@ -8,7 +8,7 @@
 
 # My Portfolio
 
-Welcome to my portfolio! Below are some of the projects I've worked on:
+Welcome to my portfolio! Below are some of the My Own Developed projects I've worked on:
 
 - [Lifespan Estimation Calculator](https://gtk-thangella-17.github.io/Lifespan_calculatoe-v1/)
 - [GTK-AI-serverless-backendless](https://gtk-thangella-17.github.io/GTK-AI-serverless-backendless/)
