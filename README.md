@@ -11,11 +11,10 @@
 Welcome to my portfolio! Below are some of the projects I've worked on:
 
 - [Lifespan Estimation Calculator](https://gtk-thangella-17.github.io/Lifespan_calculatoe-v1/)
-- [Book Your Appointment](https://gtk-thangella-17.github.io/Book-your-Appointment/)
+- [GTK-AI-serverless-backendless](https://gtk-thangella-17.github.io/GTK-AI-serverless-backendless/)
 - [Code Merger and Divider and Differentiator](https://gtk-thangella-17.github.io/code-merger-and-divider-v1/)
 - [Deals and Tech News Content Code Generator](https://gtk-thangella-17.github.io/deals-and-tech-news-content-code-generator-v1/)
 - [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
-- [GTK-AI-serverless-backendless](https://gtk-thangella-17.github.io/GTK-AI-serverless-backendless/)
 - [GT-GROWTH-TRACK Career-job-Search](https://gtk-thangella-17.github.io/GT-GROWTH-TRACK/)
 - [GT-GROWTH-TRACKS  Career-job-Roles-Guide](https://gtk-thangella-17.github.io/GT-GROWTH-TRACKS/)
 - [Renewit-Post-A-Product-webpage](https://gtk-thangella-17.github.io/Renewit-Post-A-Product-webpage/)
@@ -25,6 +24,7 @@ Welcome to my portfolio! Below are some of the projects I've worked on:
 - [Land-Rover-Range-Rover-Cars-Website](https://gtk-thangella-17.github.io/Land-Rover-Range-Rover-Cars-Website/)
 - [Wish-Generator-website](https://gtk-thangella-17.github.io/Wish-Generator-website/)
 - [Resume-Cv-Generator-website](https://gtk-thangella-17.github.io/Resume-CV-Generator/)
+- [Book Your Appointment](https://gtk-thangella-17.github.io/Book-your-Appointment/)
 - [My-Company-webpage](https://gtk-thangella-17.github.io/My-Company-webpage/)
 
 ## Creativity and Proficiency
