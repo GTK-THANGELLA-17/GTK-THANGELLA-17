@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/GTK-THANGELLA-17/GTK-THANGELLA-17/blob/main/Devops%20gif%204.gif)
+![MasterHead](https://github.com/GTK-THANGELLA-17/GTK-THANGELLA-17/blob/main/Devops%20gif%204.gif)
 <h1 align="center">Hi 👋, I'm G.Thangella</h1>
 <h3 align="center">A passionate DevOps Engineer and Game Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/GTK-THANGELLA-17/GTK-THANGELLA-17/blob/main/Devops%20Gif%20Image%202.gif">
