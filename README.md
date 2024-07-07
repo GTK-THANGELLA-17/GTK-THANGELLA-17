@@ -15,6 +15,7 @@ Welcome to my portfolio! Below are some of the My Own Developed projects I've wo
 - [GTK-Payments-Gateway-Platform](https://github.com/GTK-THANGELLA-17/GTK-Payments-Gateway-Platform)
 - [Code Merger and Divider and Differentiator](https://gtk-thangella-17.github.io/code-merger-and-divider-v1/)
 - [Deals and Tech News Content Code Generator](https://gtk-thangella-17.github.io/deals-and-tech-news-content-code-generator-v1/)
+- [Movie Pulse](https://gtk-thangella-17.github.io/MoviePulse/)
 - [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
 - [GT-GROWTH-TRACK Career-job-Search](https://gtk-thangella-17.github.io/GT-GROWTH-TRACK/)
 - [GT-GROWTH-TRACKS  Career-job-Roles-Guide](https://gtk-thangella-17.github.io/GT-GROWTH-TRACKS/)
