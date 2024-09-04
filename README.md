@@ -16,7 +16,6 @@ Welcome to my portfolio! Below are some of the My Own Developed projects I've wo
 - [Code Merger and Divider and Differentiator](https://gtk-thangella-17.github.io/code-merger-and-divider-v1/)
 - [Deals and Tech News Content Code Generator](https://gtk-thangella-17.github.io/deals-and-tech-news-content-code-generator-v1/)
 - [Movie Pulse](https://gtk-thangella-17.github.io/MoviePulse/)
-- [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
 - [GT-GROWTH-TRACK Career-job-Search](https://gtk-thangella-17.github.io/GT-GROWTH-TRACK/)
 - [GT-GROWTH-TRACKS  Career-job-Roles-Guide](https://gtk-thangella-17.github.io/GT-GROWTH-TRACKS/)
 - [Renewit-Post-A-Product-webpage](https://gtk-thangella-17.github.io/Renewit-Post-A-Product-webpage/)
@@ -28,7 +27,7 @@ Welcome to my portfolio! Below are some of the My Own Developed projects I've wo
 - [Resume-Cv-Generator-website](https://gtk-thangella-17.github.io/Resume-CV-Generator/)
 - [Book Your Appointment](https://gtk-thangella-17.github.io/Book-your-Appointment/)
 - [My-Company-webpage](https://gtk-thangella-17.github.io/My-Company-webpage/)
-
+- [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
 
 ## Creativity and Proficiency
 
