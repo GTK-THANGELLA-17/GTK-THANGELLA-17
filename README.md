@@ -26,7 +26,6 @@ Welcome to my portfolio! Below are some of the My Own Developed projects I've wo
 - [Wish-Generator-website](https://gtk-thangella-17.github.io/Wish-Generator-website/)
 - [Resume-Cv-Generator-website](https://gtk-thangella-17.github.io/Resume-CV-Generator/)
 - [Book Your Appointment](https://gtk-thangella-17.github.io/Book-your-Appointment/)
-- [My-Company-webpage](https://gtk-thangella-17.github.io/My-Company-webpage/)
 - [Code Generator](https://gtk-thangella-17.github.io/code-generator-v1/)
 
 ## Creativity and Proficiency
